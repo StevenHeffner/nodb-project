@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+
+
+.header {
+  height: 12vh;
+  width: 100%;
+  background-color: lightcoral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: whitesmoke;
+  font-size: 50px;
+  font-family: 'Rammetto One', cursive;
+}
