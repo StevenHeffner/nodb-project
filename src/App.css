@@ -1,8 +1,16 @@
 .body{
-  height: 100vh;
+  height: 200vh;
   width: 100%; 
-  background-color: mediumaquamarine;
+  background-color: seashell;
   display: flex;
   flex-direction: column;
 
+}
+
+.disfav{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
 }

@@ -5,7 +5,7 @@
 .header {
   height: 12vh;
   width: 100%;
-  background-color: lightcoral;
+  background-color: #49274a;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,4 +14,13 @@
   color: whitesmoke;
   font-size: 50px;
   font-family: 'Rammetto One', cursive;
+}
+
+.list{
+  color: #49274a
+}
+
+.favorites{
+  font-family: 'Rammetto One', cursive;
+  color: #94698E;
 }

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Rammetto+One");
+
+.input {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.but {
+  height: 50px;
+  width: 200px;
+  border-radius: 5%;
+  margin-top: 15px;
+  border: 1px solid lightgrey;
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+.in {
+  cursor: pointer;
+  height: 50px;
+  width: 200px;
+  background-color: #94698E;
+  border-radius: 4%;
+  color: white;
+  font-size: 15px;
+  margin-top: 41px;
+  font-family: "Rammetto One", cursive;
+  border: 0;
+  outline: 0;
+}
+
+.dogPic {
+  height: 400px;
+  width: 500px;
+  border-radius: 5%;
+}
+
+.fav {
+  font-size: 30px;
+  margin-top: 10px;
+}
+.ed {
+  height:23px;
+  width: 85px;
+  margin-left: 10px;
+
+}
+
